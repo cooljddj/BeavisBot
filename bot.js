@@ -1,4 +1,3 @@
-var PlugAPI = require('plugapi');
 var fs = require('fs');
 path = require('path')
 var config = require(path.resolve(__dirname, 'config.json'));
